@@ -12,3 +12,7 @@ numpy
 keyboard
 
 tweak the settings for more optimal scores -- my top score with bot is 670
+v1.py was my first version -- a worser version
+
+# website
+https://lagged.com/play/1501/
